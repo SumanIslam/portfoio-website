@@ -32,6 +32,9 @@ a:hover {
   @include respond(phone) {
     font-size: 2.8rem;
   }
+  &__reduce {
+    font-size: $mid-font-size;
+  }
 }
 
 .dark-blue-text {
