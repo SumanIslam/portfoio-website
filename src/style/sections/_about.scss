@@ -50,6 +50,7 @@
       &-text {
         text-align: left;
         color: $white-color;
+        font-size: 1.75rem;
 
         @include respond(tab-port) {
           text-align: left;
