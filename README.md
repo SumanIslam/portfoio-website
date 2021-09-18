@@ -27,7 +27,7 @@
 ⚡️ Well organized documentation
 
 To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
+To view a live example, **[click here](https://peaceful-mccarthy-b5230b.netlify.app/)**
 
 ---
 
